@@ -1,0 +1,10 @@
+.carousel-item > img {
+    height: 100vh;
+    width: auto;
+    object-fit:contain;   
+}
+
+body {
+
+    background-color: lightgray;
+}
